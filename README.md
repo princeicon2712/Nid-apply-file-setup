@@ -21,3 +21,6 @@ onlain apply kagoj
 (9) বিদুৎ বিল
 
 (১০) tax কাগজ [ পিতার নামে]
+
+<!--[profile](./ni.jpg)-->
+<img src="ni.jpg" width="600"/>
